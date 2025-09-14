@@ -18,8 +18,20 @@
 ### Golang
 * https://go.dev/dl/
 
+### Rust
+* https://www.rust-lang.org/tools/install
+
 ### All Databases in one IDE
 * https://dbeaver.io/download/
 
 ### SAP Development Tools
 * https://tools.hana.ondemand.com/
+
+### Kubernetes
+* https://kubernetes.io/docs/setup/
+
+### Eclipse IDE
+* https://www.eclipse.org/downloads/
+
+### Terraform
+* https://www.terraform.io/downloads
