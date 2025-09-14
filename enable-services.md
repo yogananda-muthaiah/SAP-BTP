@@ -11,6 +11,13 @@ cf7 -v
 cf8 -v
 ```
 
+### CloudFoundry Login Commands
+> Run this commnand
+```
+cf login --sso
+```
+
+
 ### Destination 
 ```
 cf create-service destination lite my-destination-service
