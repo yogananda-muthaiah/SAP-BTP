@@ -1,3 +1,16 @@
+
+### CloudFoundy CLI Installation
+> Install according to your OS
+* https://github.com/cloudfoundry/cli/releases
+
+### CloudFoundry Version
+> Once Installed from above step - Kindly run the below command anyone to check if its been installed Properly
+```
+cf -v
+cf7 -v
+cf8 -v
+```
+
 ### Destination 
 ```
 cf create-service destination lite my-destination-service
