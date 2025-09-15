@@ -23,3 +23,6 @@
 * https://emea.cockpit.btp.cloud.sap/
 * https://amer.cockpit.btp.cloud.sap/
 * https://apac.cockpit.btp.cloud.sap/
+
+#### SAP BTP Trial Account Login
+* https://cockpit.hanatrial.ondemand.com/trial/#/home/trial
