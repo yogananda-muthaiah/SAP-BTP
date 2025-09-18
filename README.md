@@ -26,3 +26,9 @@
 
 #### SAP BTP Trial Account Login
 * https://cockpit.hanatrial.ondemand.com/trial/#/home/trial
+
+
+### BuildPacks (Programming languages) for App Development
+
+* https://community.sap.com/t5/technology-blog-posts-by-sap/sap-btp-compare-energy-efficiency-languages-for-deployment/ba-p/13536859
+* https://community.sap.com/t5/technology-blog-posts-by-sap/sap-btp-sustainable-carbon-emission-and-energy-efficiency-languages/ba-p/13533994
