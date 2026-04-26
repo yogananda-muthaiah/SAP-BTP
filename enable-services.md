@@ -91,6 +91,12 @@ cf create-service data-attribute-recommendation-trial standard data-attribute-re
 cf create-service-key data-attribute-recommendation sk
 ```
 
+### User Provided Service (UPS)
+```
+cf create-user-provided-service my-sap-service -p '{"SAP_USERNAME":"actualUser","SAP_PASSWORD":"actualPass"}'
+```
+
+
 ```
 cf marketplace -e hana
 cf create-service hana schema hdb-staging-schema -c '{ "schema" : "STAGING4UPLOADS" }'
